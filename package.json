@@ -1,0 +1,27 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "This is React JS By Dharmendra Kumar",
+  "scripts": {
+    "test": "Just do it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharmendradeveloper/React-From-Scratch.git"
+  },
+  "keywords": [],
+  "author": "Dharmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharmendradeveloper/React-From-Scratch/issues"
+  },
+  "homepage": "https://github.com/Dharmendradeveloper/React-From-Scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
